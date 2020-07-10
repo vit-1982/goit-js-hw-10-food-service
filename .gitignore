@@ -1,6 +1,7 @@
 # production
 # /build
 webpack/
+package-lock.json
 
 # Logs
 logs
